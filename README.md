@@ -4,6 +4,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=spiritxmas&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-🔭 Currently working on an automation bot for https://web.simple-mmo.com/ and a lua cheat at https://projecthook.xyz/
-🌱 Currently learning c++, neural networks & deep learning
+🔭 Currently working on an automation bot for https://web.simple-mmo.com/ and a lua cheat at https://projecthook.xyz/ <br>
+🌱 Currently learning c++, neural networks & deep learning <br>
 📫 Contact me through email SpiritXmas1@gmail.com or discord @ Y1K#0001
