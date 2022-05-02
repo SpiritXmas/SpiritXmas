@@ -9,4 +9,4 @@
 📫 Contact me through email SpiritXmas1@gmail.com or discord @ Y1K#0001
 
 <br> <br>
-Unfortunately most my current repositories are private.
+Unfortunately most of my repositories are private.
