@@ -4,7 +4,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=spiritxmas&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-Currently working on an automation bot for (https://web.simple-mmo.com/) and https://projecthook.xyz/
+Currently working on an automation bot for https://web.simple-mmo.com/ and a lua cheat at https://projecthook.xyz/
 
 <!--
 **SpiritXmas/SpiritXmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
