@@ -7,3 +7,6 @@
 🔭 Currently working on an automation bot for https://web.simple-mmo.com/ and a lua cheat at https://projecthook.xyz/ <br>
 🌱 Currently learning c++, neural networks & deep learning <br>
 📫 Contact me through email SpiritXmas1@gmail.com or discord @ Y1K#0001
+
+<br> <br>
+Unfortunately most my current repositories are private.
